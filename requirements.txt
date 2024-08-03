@@ -1,5 +1,5 @@
 asgiref==3.7.2
-crispy-bootstrap==0.7
+crispy-bootstrap
 Django==4.2.6
 django-crispy-forms==2.0
 gunicorn==21.2.0
