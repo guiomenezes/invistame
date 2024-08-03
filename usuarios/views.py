@@ -14,4 +14,5 @@ def novo_usuario(request):
         formulario = UserRegisterForm()
        
     return render(request, 'usuarios/registrar.html', {'formulario': formulario})
+#alterando views
 
